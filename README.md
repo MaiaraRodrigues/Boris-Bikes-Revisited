@@ -1,4 +1,4 @@
-In this project, I will recreate the London's Boris Bikes and emulate all the docking stations, bikes, and infrastructure.
+In this project, I recreate the London's Boris Bikes and emulate all the docking stations, bikes, and infrastructure.
 
 User stories 
 
